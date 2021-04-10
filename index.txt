@@ -1,1 +1,2 @@
-Working on the ecommerce project 
+Working on the ecommerce project
+Changes fone in the index file
